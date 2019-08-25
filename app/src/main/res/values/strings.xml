@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ephyfania</string>
+    <string name="to_do">To do...</string>
+    <string name="enter_note">Enter note...</string>
+    <string name="save">save</string>
+    <string name="date">15 agosto 2019</string>
+</resources>
